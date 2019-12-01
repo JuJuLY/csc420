@@ -1,4 +1,4 @@
-# csc420
+# csc420 Final Project
 # Trained model folder <br />
 This folder has trained model for our project.<br />
 Gender recognition :weights9.20-0.94.h5<br />
