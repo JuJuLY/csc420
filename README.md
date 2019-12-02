@@ -13,5 +13,6 @@ It also has some resultsfor these parts.<br />
 # jilong folder <br />
 This folder has JiLong Bi's code for video proessing, shot transition detection, face detection and gender recognition<br />
 It also has some results and workflow for these parts.<br />
-
+# haarcascade_frontalface_default.xml  <br />
+This file is downloaded from OpenCV haarcascades for face detection used in our project<br />
 
