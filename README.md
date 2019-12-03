@@ -3,8 +3,8 @@
 This is code from both of us. It is able to produce facial expression recognition given video input and output result video.<br />
 # Trained model folder <br />
 This folder has trained model for our project.<br />
-Gender recognition :weights9.20-0.94.h5<br />
-Facial expression recognition:<br />
+Gender recognition: weights9.20-0.94.h5<br />
+Facial expression recognition: weights16.35-0.67.h5<br />
 <br />
 # mingjie folder <br />
 This folder has MingJie Zhu's code for CNN<br />
