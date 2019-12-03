@@ -12,7 +12,6 @@ This folder has Mingjie Zhu's code for building and training CNN<br />
 It also has some results for model training and facial expression recognition parts.<br />
 <br />
 # jilong folder <br />
-<br />
 This folder has JiLong Bi's code for video proessing, shot transition detection, face detection and gender recognition<br />
 It also has some results and workflow for these parts.<br />
 <br />
