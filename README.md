@@ -8,10 +8,11 @@ Facial expression recognition model with higher accuracy: weights16.35-0.67.h5<b
 Initial facial expression recognition model: weights7.12-0.61.h5
 <br />
 # mingjie folder <br />
-This folder has MingJie Zhu's code for CNN<br />
-It also has some resultsfor these parts.<br />
+This folder has Mingjie Zhu's code for building and training CNN<br />
+It also has some results for model training and facial expression recognition parts.<br />
 <br />
 # jilong folder <br />
+<br />
 This folder has JiLong Bi's code for video proessing, shot transition detection, face detection and gender recognition<br />
 It also has some results and workflow for these parts.<br />
 # haarcascade_frontalface_default.xml  <br />
