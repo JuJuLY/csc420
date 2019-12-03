@@ -3,7 +3,7 @@
 This is code from both of us. It is able to produce facial expression recognition given video input and output result video.<br />
 # Trained model folder <br />
 This folder has trained model for our project.<br />
-Gender recognition model: weights9.20-0.94.h5<br />
+Gender recognition model: weights9.16-0.95.h5<br />
 Facial expression recognition model with higher accuracy: weights16.35-0.67.h5<br />
 Initial facial expression recognition model: weights7.12-0.61.h5
 <br />
