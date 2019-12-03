@@ -15,8 +15,10 @@ It also has some results for model training and facial expression recognition pa
 <br />
 This folder has JiLong Bi's code for video proessing, shot transition detection, face detection and gender recognition<br />
 It also has some results and workflow for these parts.<br />
+<br />
 # haarcascade_frontalface_default.xml  <br />
 This file is downloaded from OpenCV haarcascades for face detection used in our project<br />
+<br />
 # test_video.mp4 <br />
 This video is downloaded from https://www.sample-videos.com/ for testing.
 
