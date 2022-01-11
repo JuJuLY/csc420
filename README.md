@@ -1,4 +1,8 @@
-# csc420 Final Project
+# csc420 Final Project - Facial Expression Recognition from Videos
+
+# Project Presentation Slides
+https://docs.google.com/presentation/d/11npFwkxBkkE4OJQ6N5auOjhjN5sREkRs/edit?usp=sharing&ouid=102047389296393996628&rtpof=true&sd=true
+
 # Project.ipynb <br />
 This is code from both of us. It is able to produce facial expression recognition given video input and output result video.<br />
 # Trained model folder <br />
